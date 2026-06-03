@@ -1,1 +1,2 @@
 # Python.py
+Dayananda Sagar College of Engineering plans to develop a simple Python-based Smart Campus Information System to manage student information, academic records, and performance analysis. At present, several administrative tasks such as student registration, course enrollment, record maintenance, searching student data, fee calculation, and performance analysis are often handled manually. These manual processes can be time-consuming, inefficient, and prone to errors.
